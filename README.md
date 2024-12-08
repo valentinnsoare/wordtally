@@ -89,6 +89,6 @@ OpenJDK 64-Bit Server VM GraalVM 22.3.0 (build 17.0.5+8-LTS, mixed mode, sharing
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - wordtally](https://img.shields.io/github/issues/valentinsoare/wordtally)](https://github.com/valentinsoare/wordtally/issues)
 
-### License
+### Contact
 
-Released under [MIT](/LICENSE) by [@valentinsoare](https://github.com/valentinsoare).
+For any inquiries, please contact me [@valentinsoare](www.linkedin.com/in/valentin-soare).
