@@ -91,4 +91,4 @@ OpenJDK 64-Bit Server VM GraalVM 22.3.0 (build 17.0.5+8-LTS, mixed mode, sharing
 
 ### Contact
 
-For any inquiries, please contact me [@valentinsoare](www.linkedin.com/in/valentin-soare).
+For any inquiries, please contact me www.linkedin.com/in/valentin-soare
