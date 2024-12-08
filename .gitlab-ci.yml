@@ -1,0 +1,33 @@
+stages:
+  - build
+  - test
+
+variables:
+  APP_VERSION: 0.0.2
+  ART_PATH: "/builds/vsoare/wordtally/target/wordtally-${APP_VERSION}.jar"
+
+build:
+  stage: build
+  image: openjdk:17.0.1-slim-bullseye
+  script:
+    - ./mvnw clean package
+    - mv /builds/vsoare/wordtally/target/*.jar "${ART_PATH}"
+  artifacts:
+    paths:
+      - "${ART_PATH}"
+
+smoke test:
+  stage: test
+  image: openjdk:17.0.1-slim-bullseye
+  script:
+    - output="$(echo "go go go" | java -jar ${ART_PATH} -lwmc | awk '{print $4}')"
+      
+      if [[ -z "${output}" ]]; then
+        printf "\n\033[1;31m%s\033[0m\n" "Not Good, app is not working properly!";
+        exit 1;
+      fi
+    
+      printf "\n\033[1;32m%s\033[0m\n" "All Good, app is working properly."
+  artifacts:
+    paths:
+      - "${ART_PATH}"
