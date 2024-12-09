@@ -1,9 +1,7 @@
 ## :abc: WordTally - Build Your Own wc Tool Coding Challenge
-> https://codingchallenges.fyi/challenges/challenge-wc/
 
 [![wordtally - Unix wc tool replica](https://img.shields.io/static/v1?label=wordtally&message=Unix+wc+tool+replica&color=2ea44f)](https://github.com/valentinsoare)
 
-<br>
 
 :arrow_forward: A wc tool replica made in Java 17 to print a newline, word, char
 and byte counts for each input file and a total number of lines, words, bytes and chars if more than one FILE is specified. 
@@ -15,7 +13,6 @@ which is created by another tool and redirected with pipe (|),
 will be read from the stdin file descriptor of the process id of wordtally
 (/proc/PID-number/fd/0).
 
-<br>
 
 [![final-Small.png](https://i.postimg.cc/DfLpz7ky/final-Small.png)](https://moviesondemand.io)
 
@@ -81,13 +78,12 @@ OpenJDK 64-Bit Server VM GraalVM 22.3.0 (build 17.0.5+8-LTS, mixed mode, sharing
 
 <br>
 
-[![valentinsoare - wordtally](https://img.shields.io/static/v1?label=valentinsoare&message=wordtally&color=blue&logo=github)](https://github.com/valentinsoare/wordtally "Go to GitHub repo")
-[![stars - wordtally](https://img.shields.io/github/stars/valentinsoare/wordtally?style=social)](https://github.com/valentinsoare/wordtally)
-[![forks - wordtally](https://img.shields.io/github/forks/valentinsoare/wordtally?style=social)](https://github.com/valentinsoare/wordtally)
+[![valentinsoare - wordtally](https://img.shields.io/static/v1?label=vsoare&message=wordtally&color=blue&logo=gitlab)](https://gitlab.com/vsoare/wordtally "Go to Gitlab project")
+[![stars - wordtally](https://img.shields.io/gitlab/stars/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/starrers)
+[![forks - wordtally](https://img.shields.io/gitlab/forks/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/forks)
 
-[![GitHub release](https://img.shields.io/github/release/valentinsoare/wordtally?include_prereleases=&sort=semver&color=blue)](https://github.com/valentinsoare/wordtally/releases/tag/0.0.1)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues - wordtally](https://img.shields.io/github/issues/valentinsoare/wordtally)](https://github.com/valentinsoare/wordtally/issues)
+[![Open issues - wordtally](https://img.shields.io/gitlab/issues/open/vsoare/wordtally)](https://gitlab.com/vsoare/wordtally/-/issues)
 
 ### Contact
 
