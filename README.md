@@ -83,7 +83,7 @@ OpenJDK 64-Bit Server VM GraalVM 22.3.0 (build 17.0.5+8-LTS, mixed mode, sharing
 [![forks - wordtally](https://img.shields.io/gitlab/forks/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/forks)
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![Open Issues - wordtally](https://img.shields.io/gitlab/issues/open/vsoare/wordtally)](https://gitlab.com/vsoare/wordtally/-/issues)
+[![Open issues - wordtally](https://img.shields.io/gitlab/issues/open/vsoare/wordtally)](https://gitlab.com/vsoare/wordtally/-/issues)
 
 ### Contact
 
