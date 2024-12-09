@@ -1,9 +1,7 @@
 ## :abc: WordTally - Build Your Own wc Tool Coding Challenge
-> https://codingchallenges.fyi/challenges/challenge-wc/
 
 [![wordtally - Unix wc tool replica](https://img.shields.io/static/v1?label=wordtally&message=Unix+wc+tool+replica&color=2ea44f)](https://github.com/valentinsoare)
 
-<br>
 
 :arrow_forward: A wc tool replica made in Java 17 to print a newline, word, char
 and byte counts for each input file and a total number of lines, words, bytes and chars if more than one FILE is specified. 
@@ -15,7 +13,6 @@ which is created by another tool and redirected with pipe (|),
 will be read from the stdin file descriptor of the process id of wordtally
 (/proc/PID-number/fd/0).
 
-<br>
 
 [![final-Small.png](https://i.postimg.cc/DfLpz7ky/final-Small.png)](https://moviesondemand.io)
 
@@ -86,7 +83,7 @@ OpenJDK 64-Bit Server VM GraalVM 22.3.0 (build 17.0.5+8-LTS, mixed mode, sharing
 [![forks - wordtally](https://img.shields.io/gitlab/forks/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/forks)
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues - wordtally](https://img.shields.io/gitlab/issues/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/issues)
+[![Open Issues - wordtally](https://img.shields.io/gitlab/issues/open/vsoare/wordtally)](https://gitlab.com/vsoare/wordtally/-/issues)
 
 ### Contact
 
