@@ -78,12 +78,10 @@ OpenJDK 64-Bit Server VM GraalVM 22.3.0 (build 17.0.5+8-LTS, mixed mode, sharing
 
 <br>
 
-[![valentinsoare - wordtally](https://img.shields.io/static/v1?label=vsoare&message=wordtally&color=blue&logo=gitlab)](https://gitlab.com/vsoare/wordtally "Go to Gitlab project")
-[![stars - wordtally](https://img.shields.io/gitlab/stars/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/starrers)
-[![forks - wordtally](https://img.shields.io/gitlab/forks/vsoare/wordtally?style=social)](https://gitlab.com/vsoare/wordtally/-/forks)
-
+[![valentinsoare - wordtally](https://img.shields.io/static/v1?label=valentinnsoare&message=wordtally&color=blue&logo=github)](https://github.com/valentinnsoare/wordtally "Go to Github project")
+[![stars - wordtally](https://img.shields.io/github/stars/valentinnsoare/wordtally?style=social)](https://github.com/valentinnsoare/wordtally/stargazers)
+[![forks - wordtally](https://img.shields.io/github/forks/valentinnsoare/wordtally?style=social)](https://github.com/valentinnsoare/wordtally/forks)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![Open issues - wordtally](https://img.shields.io/gitlab/issues/open/vsoare/wordtally)](https://gitlab.com/vsoare/wordtally/-/issues)
 
 ### Contact
 
