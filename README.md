@@ -2,19 +2,7 @@
 
 [![wordtally - Unix wc tool replica](https://img.shields.io/static/v1?label=wordtally&message=Unix+wc+tool+replica&color=2ea44f)](https://github.com/valentinsoare)
 
-
-:arrow_forward: A wc tool replica made in Java 17 to print a newline, word, char
-and byte counts for each input file and a total number of lines, words, bytes and chars if more than one FILE is specified. 
-A word is a non-zero-length sequence of printable characters delimited by white space.
-
-:arrow_forward: In case there is no file as input, the app will read from standard input. 
-Since this is a linux/unix command, this standard input,
-which is created by another tool and redirected with pipe (|),
-will be read from the stdin file descriptor of the process id of wordtally
-(/proc/PID-number/fd/0).
-
-
-[![final-Small.png](https://i.postimg.cc/DfLpz7ky/final-Small.png)](https://moviesondemand.io)
+A replica of the wc tool, implemented in Java 17, designed to output the number of lines, words, characters, and bytes for each input file. If multiple files are specified, it also provides a total count of lines, words, characters, and bytes. A word is defined as a non-zero-length sequence of printable characters separated by whitespace.
 
 ### Concepts/technologies used:
 1. [X] Object-Oriented Programming Principles;
