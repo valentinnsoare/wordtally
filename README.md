@@ -1,4 +1,4 @@
-## :abc: WordTally - Build Your Own wc Tool Coding Challenge
+## :abc: WordTally - Build Your Own wc Tool
 
 [![wordtally - Unix wc tool replica](https://img.shields.io/static/v1?label=wordtally&message=Unix+wc+tool+replica&color=2ea44f)](https://github.com/valentinsoare)
 
